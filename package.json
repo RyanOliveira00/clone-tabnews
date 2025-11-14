@@ -1,0 +1,21 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Construindo o TabNews do zero: um projeto prático para o curso.dev. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0",
+  "volta": {
+    "node": "18.14.2"
+  },
+  "dependencies": {
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
